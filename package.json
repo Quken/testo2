@@ -1,6 +1,6 @@
 {
 	"name": "testo2",
-	"version": "1.2.4",
+	"version": "1.2.5",
 	"description": "",
 	"main": "index.js",
 	"scripts": {
@@ -11,5 +11,9 @@
 	"files": [
 		"index.js",
 		"CHANGELOG.md"
-	]
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Quken/testo2.git"
+	}
 }
